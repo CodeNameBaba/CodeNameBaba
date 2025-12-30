@@ -1,100 +1,61 @@
-<div align="center" style="font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E2FF00&height=3&width=100%">
-<table width="100%" style="border-collapse: collapse; background-color: #111111; border: 1px solid #222222;">
-  <tr>
-    <td width="50%" align="left" style="padding: 15px;">
-      <span style="color: #666666; font-size: 12px;">SYSTEM // USER_PROFILE</span><br>
-      <span style="color: #ffffff; font-size: 28px; font-weight: bold;">>> CODENAMEBABA</span>
-    </td>
-    <td width="50%" align="right" style="padding: 15px;">
-       <a href="https://shahwarkhan.iceiy.com">
-        <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-E2FF00?style=flat-square&logo=google-chrome&logoColor=black&labelColor=E2FF00&color=black" height="30"/>
-       </a>
-    </td>
-  </tr>
-</table>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1&width=100%">
+![Header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&text=MW3%20//%20CODENAMEBABA&fontAlign=50&fontSize=35&textBg=false&fontColor=baff00)
+
+<a href="https://github.com/codenamebaba">
+  <img src="https://img.shields.io/badge/📂_PROFILE-SELECTED-baff00?style=for-the-badge&labelColor=1a1a1a&color=baff00" height="30" />
+</a>
+<a href="https://shahwarkhan.iceiy.com">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-VIEW-333333?style=for-the-badge&labelColor=1a1a1a&color=333333" height="30" />
+</a>
+<a href="mailto:official.shahwark@gmail.com">
+  <img src="https://img.shields.io/badge/📧_COMMS-EMAIL-333333?style=for-the-badge&labelColor=1a1a1a&color=333333" height="30" />
+</a>
+
+</div>
 
 <br>
 
-<table width="100%" style="border-collapse: collapse; background-color: #0a0a0a; border: 1px solid #222222;">
-  <tr>
-    <td width="25%" valign="top" style="background-color: #111111; padding: 10px; border-right: 2px solid #E2FF00;">
-      <br>
-      <img src="https://img.shields.io/badge/>_GENERAL-E2FF00?style=flat-square&color=111111&labelColor=111111" width="100%"/><br>
-      <img src="https://img.shields.io/badge/STUDIO_CONFIG-666666?style=flat-square&color=111111&labelColor=111111" width="100%"/><br>
-      <img src="https://img.shields.io/badge/TECH_STACK-666666?style=flat-square&color=111111&labelColor=111111" width="100%"/><br>
-      <img src="https://img.shields.io/badge/TELEMETRY-666666?style=flat-square&color=111111&labelColor=111111" width="100%"/>
-      <br><br><br>
-      <div align="center">
-        <span style="color: #444444; font-size: 10px;">ID: SHAHWAR KHAN<br>EST. 2022</span>
-      </div>
-    </td>
-    <td width="75%" valign="top" style="padding: 20px;">
+## > SYSTEM_STATUS // [ONLINE]
 
-      <h3 align="left" style="color: #ffffff;">>> GENERAL / <span style="color: #E2FF00;">STATUS</span></h3>
-      <code style="display: block; background-color: #111111; border-left: 3px solid #E2FF00; color: #cccccc; padding: 10px;">
-        CURRENT_FOCUS: Full Stack Development & Indie Gaming<br>
-        STATUS: Active // Building<br>
-        LEARNING_PATH: Assembly, Flutter, Advanced PHP<br>
-        ADDITIONAL_MODULES: Chemistry, IoT Hardware Projects
-      </code>
+```text
+> OPERATOR:      Shahwar Khan
+> FACTION:       UnderArc Studios
+> CURRENT OBJ:   Indie Game Dev & Web Solutions
+> LEVEL:         Class 10 (2022) -> Present
+> SPECIALTY:     Full Stack & Hardware (IoT)
 
-      <br>
-      
-      <div align="left">
-        <a href="https://instagram.com/md.shahwarkhan"><img src="https://img.shields.io/badge/INSTAGRAM-LINK-111111?style=flat-square&logo=instagram&logoColor=E2FF00&border=1px solid #333333"/></a>
-        <a href="mailto:official.shahwark@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-111111?style=flat-square&logo=gmail&logoColor=E2FF00"/></a>
-      </div>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-EQUIPPED-000000%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dbaff00%26border%3D1px" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PYTHON-EQUIPPED-000000%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dbaff00" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JAVA-EQUIPPED-000000%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dbaff00" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/KOTLIN-EQUIPPED-000000%3Fstyle%3Dfor-the-badge%26logo%3Dkotlin%26logoColor%3Dbaff00" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/ASSEMBLY-LEARNING-333333%3Fstyle%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dgray" />
 
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1&width=100%" style="margin: 20px 0;">
 
-      <h3 align="left" style="color: #ffffff;">>> STUDIO_CONFIG / <span style="color: #E2FF00;">UNDERARC</span></h3>
-       <code style="display: block; background-color: #111111; border-left: 3px solid #ffffff; color: #cccccc; padding: 10px;">
-        ORGANIZATION: UnderArc Studios<br>
-        OBJECTIVE_1: Development of Immersive Indie Games.<br>
-        OBJECTIVE_2: Deployment of Commercial Web Solutions for Small Business.
-      </code>
+<img src="https://img.shields.io/badge/HTML5-EQUIPPED-000000?style=for-the-badge&logo=html5&logoColor=baff00" />
+<img src="https://img.shields.io/badge/CSS3-EQUIPPED-000000?style=for-the-badge&logo=css3&logoColor=baff00" />
+<img src="https://img.shields.io/badge/JS-EQUIPPED-000000?style=for-the-badge&logo=javascript&logoColor=baff00" />
+<img src="https://img.shields.io/badge/PHP-EQUIPPED-000000?style=for-the-badge&logo=php&logoColor=baff00" />
+<img src="https://img.shields.io/badge/REACT-EQUIPPED-000000?style=for-the-badge&logo=react&logoColor=baff00" />
 
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1&width=100%" style="margin: 20px 0;">
 
-      <h3 align="left" style="color: #ffffff;">>> TECH_STACK / <span style="color: #E2FF00;">CONFIGURATION</span></h3>
-      <div align="left">
-        <img src="https://img.shields.io/badge/C++-ENABLED-111111?style=flat-square&logo=c%2B%2B&logoColor=E2FF00&labelColor=222222"/>
-        <img src="https://img.shields.io/badge/PYTHON-ENABLED-111111?style=flat-square&logo=python&logoColor=E2FF00&labelColor=222222"/>
-        <img src="https://img.shields.io/badge/JAVA-ENABLED-111111?style=flat-square&logo=openjdk&logoColor=E2FF00&labelColor=222222"/>
-        <img src="https://img.shields.io/badge/ASSEMBLY-LOADING...-111111?style=flat-square&logo=gnu-bash&logoColor=aaaaaa&labelColor=222222"/>
-        <br>
-        <img src="https://img.shields.io/badge/REACT-ENABLED-111111?style=flat-square&logo=react&logoColor=E2FF00&labelColor=222222"/>
-        <img src="https://img.shields.io/badge/NODE.JS-ENABLED-111111?style=flat-square&logo=nodedotjs&logoColor=E2FF00&labelColor=222222"/>
-        <img src="https://img.shields.io/badge/PHP-ENABLED-111111?style=flat-square&logo=php&logoColor=E2FF00&labelColor=222222"/>
-        <img src="https://img.shields.io/badge/FLUTTER-LOADING...-111111?style=flat-square&logo=flutter&logoColor=aaaaaa&labelColor=222222"/>
-        <br>
-        <img src="https://img.shields.io/badge/ARDUINO-ACTIVE-111111?style=flat-square&logo=arduino&logoColor=E2FF00&labelColor=222222"/>
-        <img src="https://img.shields.io/badge/MYSQL-ACTIVE-111111?style=flat-square&logo=mysql&logoColor=E2FF00&labelColor=222222"/>
-        <img src="https://img.shields.io/badge/UNREAL_ENGINE-ACTIVE-111111?style=flat-square&logo=unrealengine&logoColor=E2FF00&labelColor=222222"/>
-      </div>
+<img src="https://img.shields.io/badge/ARDUINO-HARDWARE-000000?style=for-the-badge&logo=arduino&logoColor=baff00" />
+<img src="https://img.shields.io/badge/MYSQL-DATABASE-000000?style=for-the-badge&logo=mysql&logoColor=baff00" />
+<img src="https://img.shields.io/badge/UNREAL-ENGINE-000000?style=for-the-badge&logo=unrealengine&logoColor=baff00" />
+<img src="https://img.shields.io/badge/FLUTTER-LEARNING-333333?style=for-the-badge&logo=flutter&logoColor=gray" />
+> CAREER_STATS // [TELEMETRY]
+<div align="center">
+<a href="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/codenamebaba">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dcodenamebaba%26theme%3Dtransparent%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue%26title_color%3Dbaff00%26text_color%3Dffffff%26icon_color%3Dbaff00%26border_color%3D333333" height="150" alt="stats graph" />
+</a>
+<a href="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/codenamebaba">
+<img src="https://www.google.com/search?q=https://nirzak-streak-stats.vercel.app/%3Fuser%3Dcodenamebaba%26theme%3Ddark%26hide_border%3Dfalse%26background%3D0d1117%26stroke%3Dbaff00%26ring%3Dbaff00%26fire%3Dbaff00%26currStreakLabel%3Dbaff00%26sideLabels%3Dffffff%26dates%3Dffffff%26border%3D333333" height="150" alt="streak graph" />
+</a>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dcodenamebaba%26theme%3Dtransparent%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue%26layout%3Dcompact%26title_color%3Dbaff00%26text_color%3Dffffff%26border_color%3D333333" alt="top languages" />
+</div>
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3Dbaff00%26height%3D2%26width%3D100%">
 
-    </td>
-  </tr>
-</table>
 
-<br>
-
-<table width="100%" style="border-collapse: collapse; background-color: #111111; border: 1px solid #222222;">
-  <tr>
-    <td align="left" style="padding: 10px; border-bottom: 2px solid #E2FF00;">
-      <span style="color: #ffffff; font-weight: bold;">>> GLOBAL_TELEMETRY</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 20px; background-color: #0a0a0a;">
-      <img src="https://github-readme-stats.vercel.app/api?username=codenamebaba&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=E2FF00&text_color=ffffff&icon_color=E2FF00&bg_color=0a0a0a" height="150" />
-      <img src="https://nirzak-streak-stats.vercel.app/?user=codenamebaba&theme=dark&hide_border=true&background=0a0a0a&stroke=E2FF00&ring=E2FF00&fire=E2FF00&currStreakLabel=E2FF00&sideLabels=ffffff&dates=ffffff" height="150"/>
-    </td>
-  </tr>
-</table>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E2FF00&height=3&width=100%">
-
+<img src="https://www.google.com/search?q=https://visitcount.itsvg.in/api%3Fid%3Dcodenamebaba%26icon%3D5%26color%3D4" />
 </div>
