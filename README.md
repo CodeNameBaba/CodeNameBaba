@@ -1,110 +1,95 @@
 <div align="center">
 
-![Header Frame](https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=120&section=header)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=1000&color=13EF93&center=true&vCenter=true&width=600&lines=CODENAMEBABA;UNDERARC+STUDIOS" alt="Typing SVG" />
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=13EF93&height=2&section=header&width=600)
 
-# ⚜️ C O D E N A M E B A B A ⚜️
+<br>
 
-### *“Foul Tarnished, in search of the Elden Code...”*
+<code><b>OPERATOR:</b> Shahwar Khan</code> &nbsp; | &nbsp; 
+<code><b>FACTION:</b> UnderArc Studios</code> &nbsp; | &nbsp; 
+<code><b>STATUS:</b> Active</code>
 
-![Separator](https://github.com/DenverCoder1/readme-typing-svg/blob/main/images/separator.svg?color=C19D63&height=10)
-
-### 📜 **CHARACTER STATUS**
-
-<div align="left">
-<blockquote>
-A Tarnished Coder, awakened since the Great Lockdown of 2022 (Class 10th). Currently venturing through the Lands Between of software development.
 <br><br>
-⚔️ <b>Current Covenant:</b> Guild Master of <b>UnderArc Studios</b>.
-<br>
-🎒 <b>Active Quest:</b> Forging immersive indie games & crafting commercial trade outposts (websites) for small merchants.
-<br>
-🕯️ <b>Summoning Signals:</b> Looking to cooperate on Game Dev. Seeking aid with Frontend Design.
-<br>
-🔮 <b>Attuning Sorceries:</b> Currently leveling Intelligence in PHP, Flutter, and Ancient Assembly.
-</blockquote>
-</div>
-
-![Separator](https://github.com/DenverCoder1/readme-typing-svg/blob/main/images/separator.svg?color=C19D63&height=10)
-
-### 🗣️ **ONLINE INTERACTION ITEMS**
 
 <a href="https://instagram.com/md.shahwarkhan">
-  <img src="https://img.shields.io/badge/Instagram-Use_Item-black?style=for-the-badge&logo=Instagram&logoColor=C19D63&labelColor=1a1a1a" alt="Instagram" />
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=13EF93&color=000000" alt="Instagram" />
+</a>
 <a href="mailto:official.shahwark@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Send_Message-black?style=for-the-badge&logo=gmail&logoColor=C19D63&labelColor=1a1a1a" alt="Email" />
+  <img src="https://img.shields.io/badge/COMM_LINK-EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=13EF93&color=000000" alt="Email" />
+</a>
+<a href="https://shahwarkhan.iceiy.com">
+  <img src="https://img.shields.io/badge/DOSSIER-PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=13EF93&color=000000" alt="Portfolio" />
 </a>
 
-<br>
-
----
-
-### 🎒 **INVENTORY & EQUIPMENT**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C19D63&height=2&width=100%25" alt="UI line">
-<br>
-
-<b>---[ Primary Attributes (Languages) ]---</b>
-<br>
-<img src="https://img.shields.io/badge/C++-EQUIPPED-black?style=flat-square&logo=c%2B%2B&logoColor=C19D63&labelColor=2a2a2a" />
-<img src="https://img.shields.io/badge/Java-EQUIPPED-black?style=flat-square&logo=openjdk&logoColor=C19D63&labelColor=2a2a2a" />
-<img src="https://img.shields.io/badge/Python-EQUIPPED-black?style=flat-square&logo=python&logoColor=C19D63&labelColor=2a2a2a" />
-<img src="https://img.shields.io/badge/JavaScript-EQUIPPED-black?style=flat-square&logo=javascript&logoColor=C19D63&labelColor=2a2a2a" />
-<img src="https://img.shields.io/badge/PHP-EQUIPPED-black?style=flat-square&logo=php&logoColor=C19D63&labelColor=2a2a2a" />
-<img src="https://img.shields.io/badge/Kotlin-EQUIPPED-black?style=flat-square&logo=kotlin&logoColor=C19D63&labelColor=2a2a2a" />
-
-<br><br>
-<b>---[ Sorceries & Incantations (Web & Frameworks) ]---</b>
-<br>
-<img src="https://img.shields.io/badge/HTML5-MEMORIZED-black?style=flat-square&logo=html5&logoColor=C19D63&labelColor=2a2a2a" />
-<img src="https://img.shields.io/badge/CSS3-MEMORIZED-black?style=flat-square&logo=css3&logoColor=C19D63&labelColor=2a2a2a" />
-<img src="https://img.shields.io/badge/React-MEMORIZED-black?style=flat-square&logo=react&logoColor=C19D63&labelColor=2a2a2a" />
-<img src="https://img.shields.io/badge/Node.js-MEMORIZED-black?style=flat-square&logo=node.js&logoColor=C19D63&labelColor=2a2a2a" />
-<img src="https://img.shields.io/badge/JavaFX-MEMORIZED-black?style=flat-square&logo=javafx&logoColor=C19D63&labelColor=2a2a2a" />
-
-<br><br>
-<b>---[ Artifacts & Tools ]---</b>
-<br>
-<img src="https://img.shields.io/badge/Unreal_Engine-MYTHICAL-black?style=flat-square&logo=unrealengine&logoColor=C19D63&labelColor=2a2a2a" />
-<img src="https://img.shields.io/badge/Firebase-RARE-black?style=flat-square&logo=firebase&logoColor=C19D63&labelColor=2a2a2a" />
-<img src="https://img.shields.io/badge/MySQL-RARE-black?style=flat-square&logo=mysql&logoColor=C19D63&labelColor=2a2a2a" />
-<img src="https://img.shields.io/badge/Apache-COMMON-black?style=flat-square&logo=apache&logoColor=C19D63&labelColor=2a2a2a" />
-<img src="https://img.shields.io/badge/Arduino-PHYSICAL-black?style=flat-square&logo=Arduino&logoColor=C19D63&labelColor=2a2a2a" />
-
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C19D63&height=2&width=100%25" alt="UI line">
-
----
-
-### 📊 **PLAYER STATS**
-
-*(I have changed your stats themes from 'bear' to dark/transparent to match the Soulslike UI vibe)*
-
-![](https://github-readme-stats.vercel.app/api?username=codenamebaba&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=C19D63&text_color=9f9f9f&icon_color=C19D63)
-<br>
-![](https://nirzak-streak-stats.vercel.app/?user=codenamebaba&theme=dark&hide_border=true&stroke=C19D63&ring=C19D63&fire=C19D63&currStreakLabel=C19D63)
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamebaba&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=C19D63&text_color=9f9f9f)
-
----
-
-### 🏆 **ACHIEVEMENTS**
-
-![](https://github-profile-trophy.vercel.app/?username=codenamebaba&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-### 📜 **MESSAGE FROM ANOTHER WORLD**
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=60&section=footer" width="100%">
+### // MISSION_BRIEFING
+> **Current Objective:** Establishing **UnderArc Studios**.
+> <br>
+> **Task 1:** Developing Indie Game titles.
+> <br>
+> **Task 2:** Deploying commercial web solutions for small businesses.
+> <br>
+> **Acquiring Intel:** Currently learning `Assembly`, `Flutter`, and `PHP`.
 
 <br>
 
-### 🕯️ **INVASION COUNTER**
-[![](https://visitcount.itsvg.in/api?id=codenamebaba&icon=2&color=11)](https://visitcount.itsvg.in)
+### // WEAPON_LOADOUT (TECH STACK)
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=13EF93" />
+<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=13EF93" />
+<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=13EF93" />
+<img src="https://img.shields.io/badge/KOTLIN-000000?style=for-the-badge&logo=kotlin&logoColor=13EF93" />
+<img src="https://img.shields.io/badge/ASSEMBLY-000000?style=for-the-badge&logo=gnu-bash&logoColor=13EF93" />
+
+<br>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=13EF93" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=13EF93" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=13EF93" />
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=13EF93" />
+
+<br>
+<img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=13EF93" />
+<img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=13EF93" />
+<img src="https://img.shields.io/badge/FLUTTER-000000?style=for-the-badge&logo=flutter&logoColor=13EF93" />
+<img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=13EF93" />
+<img src="https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase&logoColor=13EF93" />
+
+<br>
+<img src="https://img.shields.io/badge/ARDUINO-000000?style=for-the-badge&logo=arduino&logoColor=13EF93" />
+<img src="https://img.shields.io/badge/UNREAL_ENGINE-000000?style=for-the-badge&logo=unrealengine&logoColor=13EF93" />
+
+</div>
+
+<br>
+
+### // AFTER_ACTION_REPORT (STATS)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=codenamebaba&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=13EF93&text_color=ffffff&icon_color=13EF93&bg_color=0d1117" height="160" alt="stats graph" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=codenamebaba&theme=dark&hide_border=true&background=0d1117&stroke=13EF93&ring=13EF93&fire=13EF93&currStreakLabel=13EF93&sideLabels=ffffff&dates=ffffff" height="160" alt="streak graph" />
+
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenamebaba&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=13EF93&text_color=ffffff&bg_color=0d1117" alt="top languages" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=13EF93&height=2&section=footer&width=100%">
+  <br>
+  <sub><i>SYSTEM STATUS: ONLINE // END OF FILE</i></sub>
+  <br><br>
+  
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=codenamebaba&icon=5&color=4" />
+  </a>
 </div>
