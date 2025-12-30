@@ -1,61 +1,95 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&text=MW3%20//%20CODENAMEBABA&fontAlign=50&fontSize=35&textBg=false&fontColor=baff00)
+![Header Line](https://capsule-render.vercel.app/api?type=rect&color=13EF93&height=2&section=header&width=100%)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=1000&color=13EF93&center=true&vCenter=true&width=600&lines=SYSTEM+BOOT...;IDENTITY_CONFIRMED:;CODENAMEBABA;UNDERARC+STUDIOS;PROTOCOL:+ACTIVE" alt="Typing SVG" />
+![Header Line](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=5&section=header)
 
-<a href="https://github.com/codenamebaba">
-  <img src="https://img.shields.io/badge/📂_PROFILE-SELECTED-baff00?style=for-the-badge&labelColor=1a1a1a&color=baff00" height="30" />
-</a>
-<a href="https://shahwarkhan.iceiy.com">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-VIEW-333333?style=for-the-badge&labelColor=1a1a1a&color=333333" height="30" />
+<br>
+
+<table align="center">
+    <tr>
+        <td align="center" width="100">
+            <img src="https://github.com/codenamebaba.png" width="80" style="border-radius:50%; border: 2px solid #13EF93;" alt="Avatar">
+        </td>
+        <td align="left">
+            <code><b>OPERATOR_ID:</b> &nbsp;SHAHWAR KHAN</code><br>
+            <code><b>FACTION:</b> &nbsp;&nbsp;&nbsp;&nbsp;UnderArc Studios</code><br>
+            <code><b>CURRENT_LOC:</b> &nbsp;India [IN]</code><br>
+            <code><b>CLASS:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indie Dev / Web Arch</code>
+        </td>
+    </tr>
+</table>
+
+<br>
+
+<a href="https://instagram.com/md.shahwarkhan">
+  <img src="https://img.shields.io/badge/INSTAGRAM-ENCRYPTED-0d1117?style=for-the-badge&logo=instagram&logoColor=13EF93&labelColor=0d1117&color=13EF93" alt="Instagram" />
 </a>
 <a href="mailto:official.shahwark@gmail.com">
-  <img src="https://img.shields.io/badge/📧_COMMS-EMAIL-333333?style=for-the-badge&labelColor=1a1a1a&color=333333" height="30" />
+  <img src="https://img.shields.io/badge/COMM_LINK-OPEN_FREQ-0d1117?style=for-the-badge&logo=gmail&logoColor=13EF93&labelColor=0d1117&color=13EF93" alt="Email" />
+</a>
+<a href="https://shahwarkhan.iceiy.com">
+  <img src="https://img.shields.io/badge/DOSSIER-ACCESS_PORTFOLIO-0d1117?style=for-the-badge&logo=google-chrome&logoColor=13EF93&labelColor=0d1117&color=13EF93" alt="Portfolio" />
 </a>
 
 </div>
 
 <br>
 
-## > SYSTEM_STATUS // [ONLINE]
+### // MISSION_LOG
+> **Current Objective:** Establishing **[UnderArc Studios]**.
+> <br>
+> **Task 1:** Developing Indie Game titles (Unreal Engine 5).
+> <br>
+> **Task 2:** Deploying commercial web solutions for small businesses.
+> <br>
+> **Acquiring Intel:** Currently researching `Assembly`, `Flutter`, and `PHP`.
 
-```text
-> OPERATOR:      Shahwar Khan
-> FACTION:       UnderArc Studios
-> CURRENT OBJ:   Indie Game Dev & Web Solutions
-> LEVEL:         Class 10 (2022) -> Present
-> SPECIALTY:     Full Stack & Hardware (IoT)
+<br>
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-EQUIPPED-000000%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dbaff00%26border%3D1px" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PYTHON-EQUIPPED-000000%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dbaff00" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JAVA-EQUIPPED-000000%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dbaff00" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/KOTLIN-EQUIPPED-000000%3Fstyle%3Dfor-the-badge%26logo%3Dkotlin%26logoColor%3Dbaff00" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/ASSEMBLY-LEARNING-333333%3Fstyle%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dgray" />
+### // WEAPON_LOADOUT (TECH STACK)
 
-
-<img src="https://img.shields.io/badge/HTML5-EQUIPPED-000000?style=for-the-badge&logo=html5&logoColor=baff00" />
-<img src="https://img.shields.io/badge/CSS3-EQUIPPED-000000?style=for-the-badge&logo=css3&logoColor=baff00" />
-<img src="https://img.shields.io/badge/JS-EQUIPPED-000000?style=for-the-badge&logo=javascript&logoColor=baff00" />
-<img src="https://img.shields.io/badge/PHP-EQUIPPED-000000?style=for-the-badge&logo=php&logoColor=baff00" />
-<img src="https://img.shields.io/badge/REACT-EQUIPPED-000000?style=for-the-badge&logo=react&logoColor=baff00" />
-
-
-<img src="https://img.shields.io/badge/ARDUINO-HARDWARE-000000?style=for-the-badge&logo=arduino&logoColor=baff00" />
-<img src="https://img.shields.io/badge/MYSQL-DATABASE-000000?style=for-the-badge&logo=mysql&logoColor=baff00" />
-<img src="https://img.shields.io/badge/UNREAL-ENGINE-000000?style=for-the-badge&logo=unrealengine&logoColor=baff00" />
-<img src="https://img.shields.io/badge/FLUTTER-LEARNING-333333?style=for-the-badge&logo=flutter&logoColor=gray" />
-> CAREER_STATS // [TELEMETRY]
 <div align="center">
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/codenamebaba">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dcodenamebaba%26theme%3Dtransparent%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue%26title_color%3Dbaff00%26text_color%3Dffffff%26icon_color%3Dbaff00%26border_color%3D333333" height="150" alt="stats graph" />
-</a>
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/codenamebaba">
-<img src="https://www.google.com/search?q=https://nirzak-streak-stats.vercel.app/%3Fuser%3Dcodenamebaba%26theme%3Ddark%26hide_border%3Dfalse%26background%3D0d1117%26stroke%3Dbaff00%26ring%3Dbaff00%26fire%3Dbaff00%26currStreakLabel%3Dbaff00%26sideLabels%3Dffffff%26dates%3Dffffff%26border%3D333333" height="150" alt="streak graph" />
-</a>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dcodenamebaba%26theme%3Dtransparent%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue%26layout%3Dcompact%26title_color%3Dbaff00%26text_color%3Dffffff%26border_color%3D333333" alt="top languages" />
+
+| **CORE LANGUAGES** | **FRAMEWORKS & WEB** | **HARDWARE & ENGINES** |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=13EF93" /><br><img src="https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=13EF93" /><br><img src="https://img.shields.io/badge/JAVA-0d1117?style=for-the-badge&logo=openjdk&logoColor=13EF93" /> | <img src="https://img.shields.io/badge/REACT-0d1117?style=for-the-badge&logo=react&logoColor=13EF93" /><br><img src="https://img.shields.io/badge/NODE.JS-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=13EF93" /><br><img src="https://img.shields.io/badge/FLUTTER-0d1117?style=for-the-badge&logo=flutter&logoColor=13EF93" /> | <img src="https://img.shields.io/badge/UNREAL_ENGINE-0d1117?style=for-the-badge&logo=unrealengine&logoColor=13EF93" /><br><img src="https://img.shields.io/badge/ARDUINO-0d1117?style=for-the-badge&logo=arduino&logoColor=13EF93" /><br><img src="https://img.shields.io/badge/ASSEMBLY-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=13EF93" /> |
+
 </div>
+
+<br>
+
+### // HUD_STATS (PERFORMANCE)
+
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3Dbaff00%26height%3D2%26width%3D100%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=codenamebaba&show_icons=true&hide_border=false&count_private=true&title_color=13EF93&text_color=ffffff&icon_color=13EF93&bg_color=0d1117&border_color=13EF93&border_radius=10" height="180" alt="stats graph" />
 
-<img src="https://www.google.com/search?q=https://visitcount.itsvg.in/api%3Fid%3Dcodenamebaba%26icon%3D5%26color%3D4" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenamebaba&layout=compact&hide_border=false&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10" height="180" alt="top languages" />
+
+<br><br>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=codenamebaba&theme=dark&hide_border=false&background=0d1117&stroke=13EF93&ring=13EF93&fire=13EF93&currStreakLabel=13EF93&sideLabels=ffffff&dates=ffffff&border=13EF93" alt="streak graph" />
+
+</div>
+
+<br>
+
+### // CONTRIBUTION_GRID (ACTIVITY)
+
+<div align="center">
+  <img src="https://github.com/codenamebaba/codenamebaba/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=13EF93&height=2&section=footer&width=100%">
+  <br>
+  <code>SYSTEM STATUS: ONLINE // END OF FILE</code>
+  <br><br>
+  
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=codenamebaba&icon=5&color=4" />
+  </a>
 </div>
