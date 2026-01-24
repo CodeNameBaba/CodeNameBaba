@@ -70,8 +70,9 @@
   <code>SYSTEM STATUS: ONLINE // END OF FILE</code>
   <br><br>
   
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=codenamebaba&icon=5&color=4" />
-  </a>
+<a href="https://github.com/codenamebaba">
+  <img src="https://komarev.com/ghpvc/?username=codenamebaba&color=blue" alt="Profile Views" />
+</a>
+
 </div>
 
