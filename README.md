@@ -47,7 +47,7 @@
 ### // HUD_STATS (PERFORMANCE)
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codenamebaba&show_icons=true&hide_border=false&count_private=true&title_color=13EF93&text_color=ffffff&icon_color=13EF93&bg_color=0d1117&border_color=13EF93&border_radius=10" height="180" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=codenamebaba&show_icons=true&count_private=true&title_color=13EF93&text_color=ffffff&icon_color=13EF93&bg_color=0d1117&border_color=13EF93&border_radius=10" height="180" alt="stats graph" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenamebaba&layout=compact&hide_border=false&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10" height="180" alt="top languages" />
 
