@@ -47,8 +47,7 @@
 ### // HUD_STATS (PERFORMANCE)
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=codenamebaba&show_icons=true&count_private=true&title_color=13EF93&text_color=ffffff&icon_color=13EF93&bg_color=0d1117&border_color=13EF93&border_radius=10" height="180" alt="stats graph" />
-
+https://github-readme-stats-fast.vercel.app/api/top-langs/?username=codenamebaba&layout=compact&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenamebaba&layout=compact&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93" height="180" alt="top languages" />
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=codenamebaba&theme=dark&hide_border=false&background=0d1117&stroke=13EF93&ring=13EF93&fire=13EF93&currStreakLabel=13EF93&sideLabels=ffffff&dates=ffffff&border=13EF93" alt="streak graph" />
