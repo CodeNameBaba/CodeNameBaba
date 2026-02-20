@@ -56,8 +56,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codenamebaba&show_icons=true&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10" height="180" alt="github stats" />
 
 </div>
-
-
 <br>
 
 ### // CONTRIBUTION_GRID (ACTIVITY)
