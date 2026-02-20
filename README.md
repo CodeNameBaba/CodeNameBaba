@@ -23,7 +23,6 @@
 </a>
 
 </div>
-
 <br>
 
 ### // MISSION_LOG
