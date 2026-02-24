@@ -5,6 +5,7 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=1000&color=13EF93&center=true&vCenter=true&width=600&lines=SYSTEM+BOOT...;IDENTITY_CONFIRMED:;CODENAMEBABA;UNDERARC+STUDIOS;PROTOCOL:+ACTIVE" alt="Typing SVG" />
   
+
 ![Header Line](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=5&section=header)
 
 <br> 
