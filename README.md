@@ -17,9 +17,15 @@
 </td></tr></table>
 
 <br>
-<a href="https://instagram.com/md.shahwarkhan"><img src="https://img.shields.io/badge/INSTAGRAM-ENCRYPTED-0d1117?style=for-the-badge&logo=instagram&logoColor=13EF93&labelColor=0d1117&color=13EF93" alt="Instagram" /></a><a href="mailto:official.shahwark@gmail.com"><img src="https://img.shields.io/badge/COMM_LINK-OPEN_FREQ-0d1117?style=for-the-badge&logo=gmail&logoColor=13EF93&labelColor=0d1117&color=13EF93" alt="Email" /></a>
+<a href="https://instagram.com/md.shahwarkhan">
+<img  src="https://img.shields.io/badge/INSTAGRAM-ENCRYPTED-0d1117?style=for-the-badge&logo=instagram&logoColor=13EF93&labelColor=0d1117&color=13EF93" alt="Instagram" />
+</a>
+<a href="mailto:official.shahwark@gmail.com">
+<img src="https://img.shields.io/badge/COMM_LINK-OPEN_FREQ-0d1117?style=for-the-badge&logo=gmail&logoColor=13EF93&labelColor=0d1117&color=13EF93" alt="Email" />
+</a>
+
 <a href="https://shahwarkhan.iceiy.com">
-<img src="https://img.shields.io/badge/BRAVO 6-ACCESS_PORTFOLIO-0d1117?style=for-the-badge&logo=google-chrome&logoColor=13EF93&labelColor=0d1117&color=13EF93" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/ACCESS-PORTFOLIO-1f2a24?style=for-the-badge&logo=call-of-duty&logoColor=9cff00&labelColor=0b0f0c&color=2d3f36" alt="Access Portfolio" />
 </a>
 
 </div>
