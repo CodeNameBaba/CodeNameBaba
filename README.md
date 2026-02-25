@@ -1,5 +1,18 @@
 <div align="center">  
+---
 
+### // OPERATOR_BRIEFING
+
+> **This man, Shahwar, is fighting his own war.**  
+> He has no rules. No boundaries.  
+> He doesn't flinch at torture, human trafficking, or genocide.  
+>  
+> He's not loyal to a flag or country or any set of ideals.
+> He trades blood for money.
+> He's your new best friend.
+> You don't want to know what it's cost already to put you next to him.
+> It will cost you a piece of yourself.
+> It will cost nothing compared to everything you'll save.
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=1000&color=13EF93&center=true&vCenter=true&width=600&lines=SYSTEM+BOOT...;IDENTITY_CONFIRMED:;CODENAMEBABA;UNDERARC+STUDIOS;PROTOCOL:+ACTIVE" alt="Typing SVG" />  
 
 <br>   
