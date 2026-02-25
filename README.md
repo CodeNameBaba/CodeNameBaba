@@ -29,8 +29,9 @@
 
 
 <a href="https://shahwarkhan.iceiy.com">  
-  <img src="https://img.shields.io/badge/BRAVO_6-TARGET_ACQUIRED-black?style=for-the-badge&logo=target&logoColor=FF0000&labelColor=1a1a1a&color=050505" alt="Portfolio" />  
+  <img src="https://img.shields.io/badge/UAV_ONLINE-ACCESS_PORTFOLIO-0d1117?style=for-the-badge&logo=sonarr&logoColor=39FF14&labelColor=0d1117&color=050505" alt="Portfolio" />  
 </a>
+
 
 
 
