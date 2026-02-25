@@ -22,11 +22,12 @@
 </a>
 <a href="mailto:official.shahwark@gmail.com">
 <img src="https://img.shields.io/badge/COMM_LINK-OPEN_FREQ-0d1117?style=for-the-badge&logo=gmail&logoColor=13EF93&labelColor=0d1117&color=13EF93" alt="Email" />
-</a>
+</a> 
 
 <a href="https://shahwarkhan.iceiy.com">
-  <img src="https://img.shields.io/badge/RANK-SERGEANT-0b0f0c?style=for-the-badge&logo=call-of-duty&logoColor=9CFF00&labelColor=050807&color=223a2f" />
+  <img src="https://img.shields.io/badge/SERGEANT-PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=9CFF00&labelColor=050807&color=223a2f" />
 </a>
+
 </div>
 <br>
 
