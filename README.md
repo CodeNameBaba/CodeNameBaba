@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://shahwarkhan.iceiy.com">
-  <img src="https://img.shields.io/badge/BRAVO--6-CLEARANCE_GRANTED-0b0f0c?style=for-the-badge&logo=call-of-duty&logoColor=6aff00&labelColor=000000&color=1c2b22" alt="Bravo 6 Portfolio" />
+  <img src="https://img.shields.io/badge/MISSION-PORTFOLIO_READY-101412?style=for-the-badge&logo=call-of-duty&logoColor=7CFF00&labelColor=050807&color=1b2e24" alt="Mission Ready Portfolio" />
 </a>
 
 </div>
