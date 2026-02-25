@@ -29,7 +29,7 @@
 
 
 <a href="https://shahwarkhan.iceiy.com">  
-  <img src="https://img.shields.io/badge/SECURE_COMMS-ESTABLISHED_PORTFOLIO_LINK-0d1117?style=for-the-badge&logo=target&logoColor=13EF93&labelColor=0d1117&color=13EF93" alt="Portfolio" />  
+  <img src="https://img.shields.io/badge/BRAVO%206-GOING%20DARK%20%2F%2F%20PORTFOLIO-000000?style=for-the-badge&logo=windowsterminal&logoColor=39FF14&labelColor=0d1117&color=050505" alt="Portfolio" />  
 </a>
 
 
