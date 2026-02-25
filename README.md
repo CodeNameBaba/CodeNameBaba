@@ -6,7 +6,6 @@
 > **This man, Shahwar, is fighting his own war.**  
 > He has no rules. No boundaries.  
 > He doesn't flinch at torture, human trafficking, or genocide.  
-
 > He's not loyal to a flag or country or any set of ideals.
 > He trades blood for money.
 > He's your new best friend.
