@@ -25,7 +25,7 @@
 </a> 
 
 <a href="https://shahwarkhan.iceiy.com">
-  <img src="https://img.shields.io/badge/RECRUIT-ACCESS_GRANTED-0b0f0c?style=for-the-badge&logo=google-chrome&logoColor=7CFF00&labelColor=050807&color=1b2e24" />
+  <img src="https://img.shields.io/badge/CAPTAIN-MISSION_READY-000000?style=for-the-badge&logo=terminal&logoColor=B6FF00&labelColor=050807&color=2e463a" />
 </a>
 
 </div>
