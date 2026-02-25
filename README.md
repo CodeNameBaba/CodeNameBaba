@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://shahwarkhan.iceiy.com">
-<img src="https://img.shields.io/badge/BRAVO 6-ACCESS_PORTFOLIO-0d1117?style=for-the-badge&logo=google-chrome&logoColor=13EF93&labelColor=0d1117&color=13EF93" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/BRAVO--6-CLEARANCE_GRANTED-0b0f0c?style=for-the-badge&logo=call-of-duty&logoColor=6aff00&labelColor=000000&color=1c2b22" alt="Bravo 6 Portfolio" />
 </a>
 
 </div>
