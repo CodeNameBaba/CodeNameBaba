@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/COMM_LINK-OPEN_FREQ-0d1117?style=for-the-badge&logo=gmail&logoColor=13EF93&labelColor=0d1117&color=13EF93" alt="Email" />
 </a>
 
-<a href="https://shahwarkhan.iceiy.com">
+a href="https://shahwarkhan.iceiy.com">
   <img src="https://img.shields.io/badge/MISSION-PORTFOLIO_READY-101412?style=for-the-badge&logo=call-of-duty&logoColor=7CFF00&labelColor=050807&color=1b2e24" alt="Mission Ready Portfolio" />
 </a>
 
