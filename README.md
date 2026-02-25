@@ -23,10 +23,18 @@
 <a href="mailto:official.shahwark@gmail.com">
 <img src="https://img.shields.io/badge/COMM_LINK-OPEN_FREQ-0d1117?style=for-the-badge&logo=gmail&logoColor=13EF93&labelColor=0d1117&color=13EF93" alt="Email" />
 </a> 
-<br>
-<a href="https://shahwarkhan.iceiy.com">
-  <img src="https://img.shields.io/badge/TASK_FORCE-141-000000?style=for-the-badge&logo=probot&logoColor=7CFF00&labelColor=050807&color=0f1f18" />
+
+
+
+
+
+<a href="https://shahwarkhan.iceiy.com">  
+  <img src="https://img.shields.io/badge/BRAVO%206-GOING%20DARK%20%2F%2F%20PORTFOLIO-000000?style=for-the-badge&logo=windows-terminal&logoColor=39FF14&labelColor=0d1117&color=050505" alt="Portfolio" />  
 </a>
+
+
+
+
 
 </div>
 <br>
