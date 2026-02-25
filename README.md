@@ -27,9 +27,11 @@
 
 
 
+
 <a href="https://shahwarkhan.iceiy.com">  
-  <img src="https://img.shields.io/badge/SECURE_COMMS-ESTABLISHED_PORTFOLIO_LINK-0d1117?style=for-the-badge&logo=wireguard&logoColor=13EF93&labelColor=0d1117&color=13EF93" alt="Portfolio" />  
+  <img src="https://img.shields.io/badge/SECURE_COMMS-ENCRYPTED_LINK-black?style=for-the-badge&logo=kalilinux&logoColor=39FF14&labelColor=050505&color=1a1a1a" alt="Portfolio" />  
 </a>
+
 
 
 
