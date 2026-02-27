@@ -50,11 +50,9 @@
 
 
 
-
+  ---
   ### // OPERATOR_BRIEFING
 
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&height=30&pause=999999&color=9EFF9E&width=900&lines=---)
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&height=30&pause=999999&color=9EFF9E&width=900&lines=%2F%2F+OPERATOR_BRIEFING)
 ![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&height=30&pause=999999&color=9EFF9E&width=900&lines=This+man%2C+Shahwar%2C+is+fighting+his+own+war.)
 ![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&height=30&pause=999999&color=9EFF9E&width=900&lines=He+has+no+rules.+No+boundaries.)
 ![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&height=30&pause=999999&color=9EFF9E&width=900&lines=He+doesn%27t+flinch+at+torture%2C+human+trafficking%2C+or+genocide.)
