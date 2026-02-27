@@ -50,15 +50,15 @@
 ### // OPERATOR_BRIEFING    
     
 
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&height=30&pause=999999&color=9EFF9E&width=900&lines=This+man%2C+Shahwar%2C+is+fighting+his+own+war.)
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&height=30&pause=999999&color=9EFF9E&width=900&lines=He+has+no+rules.+No+boundaries.)
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&height=30&pause=999999&color=9EFF9E&width=900&lines=He+doesn%27t+flinch+at+torture%2C+human+trafficking%2C+or+genocide.)
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&height=30&pause=999999&color=9EFF9E&width=900&lines=He%27s+not+loyal+to+a+flag+or+country+or+any+set+of+ideals.)
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&height=30&pause=999999&color=9EFF9E&width=900&lines=He+trades+blood+for+money.)
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&height=30&pause=999999&color=9EFF9E&width=900&lines=He%27s+your+new+best+friend.)
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&height=30&pause=999999&color=9EFF9E&width=900&lines=You+don%27t+want+to+know+what+it%27s+cost+already+to+put+you+next+to+him.)
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&height=30&pause=999999&color=9EFF9E&width=900&lines=It+will+cost+you+a+piece+of+yourself.)
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&height=30&pause=999999&color=9EFF9E&width=900&lines=It+will+cost+nothing+compared+to+everything+you%27ll+save.)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=25&height=30&pause=999999&color=9EFF9E&width=900&lines=This+man%2C+Shahwar%2C+is+fighting+his+own+war.)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=25&height=30&pause=999999&color=9EFF9E&width=900&lines=He+has+no+rules.+No+boundaries.)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=25&height=30&pause=999999&color=9EFF9E&width=900&lines=He+doesn%27t+flinch+at+torture%2C+human+trafficking%2C+or+genocide.)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=25&height=30&pause=999999&color=9EFF9E&width=900&lines=He%27s+not+loyal+to+a+flag+or+country+or+any+set+of+ideals.)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=25&height=30&pause=999999&color=9EFF9E&width=900&lines=He+trades+blood+for+money.)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=25&height=30&pause=999999&color=9EFF9E&width=900&lines=He%27s+your+new+best+friend.)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=25&height=30&pause=999999&color=9EFF9E&width=900&lines=You+don%27t+want+to+know+what+it%27s+cost+already+to+put+you+next+to+him.)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=25&height=30&pause=999999&color=9EFF9E&width=900&lines=It+will+cost+you+a+piece+of+yourself.)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=25&height=30&pause=999999&color=9EFF9E&width=900&lines=It+will+cost+nothing+compared+to+everything+you%27ll+save.)
 
 
     
