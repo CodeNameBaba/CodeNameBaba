@@ -12,7 +12,7 @@
             </td><td align="left">  
 <code><b>OPERATOR_ID:</b> &nbsp;SHAHWAR KHAN</code><br>  
 <code><b>FACTION:</b> &nbsp;&nbsp;&nbsp;&nbsp;UnderArc Studios</code><br>  
-            <code><b>CURRENT_LOC:</b> &nbsp;India [IN]</code><br>  
+            <code><b>CURRENT_LOC:</b> &nbsp; Hyderabad India [IN]</code><br>  
             <code><b>CLASS:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indie Dev / Web Arch</code>  
 </td></tr></table>  
   
