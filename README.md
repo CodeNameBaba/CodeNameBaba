@@ -45,34 +45,22 @@
 </div>  
 
 <br>  
+  ---
 
+### // OPERATOR_BRIEFING
 
+<div align="left">
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNDAwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiMwZDExMTciLz4KICAgIDxzdHlsZT4KICAgICAgICAudHh0IHsKICAgICAgICAgICAgZm9udC1mYW1pbHk6ICdDb3VyaWVyIE5ldycsIENvdXJpZXIsIG1vbm9zcGFjZTsKICAgICAgICAgICAgZm9udC1zaXplOiAxOHB4OwogICAgICAgICAgICBmaWxsOiAjMTNFRjkzOwogICAgICAgICAgICB0ZXh0LXNoYWRvdzogMCAwIDRweCByZ2JhKDE5LCAyMzksIDE0NywgMC42KTsKICAgICAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7
+        fQogICAgICAgIC5jb3ZlciB7IGZpbGw6ICMwZDExMTc7IH0KICAgICAgICAuY3Vyc29yIHsgZmlsbDogIzEzRUY5Mzsgb3BhY2l0eTogMDsgfQoKICAgICAgICBAa2V5ZnJhbWVzIHR5cGUgewogICAgICAgICAgICB0byB7IHRyYW5zZm9ybTogdHJhbnNsYXRlWCg5MDBweCk7IH0KICAgICAgICB9
+        CiAgICAgICAgCiAgICAgICAgQGtleWZyYW1lcyBzaG93Q3Vyc29yIHsKICAgICAgICAgICAgMCUsIDk5JSB7IG9wYWNpdHk6IDA7IH0KICAgICAgICAgICAgMTAwJSB7IG9wYWNpdHk6IDE7IH0KICAgICAgICB9
+        CiAgICAgICAgCiAgICAgICAgQGtleWZyYW1lcyBibGluayB7
+        MCAKeyBvcGFjaXR5OiAwOyB9CiAgICAgICAgICAgIDUwJSB7IG9wYWNpdHk6IDE7IH0KICAgICAgICAgICAgMTAwJSB7IG9wYWNpdHk6IDA7IH0KICAgICAgICB9CgogICAgICAgIC8qIFNlcXVlbnRpYWwgb25lLXRpbWUgdHlwaW5nIGRlbGF5cyAqLwogICAgICAgIC5jMSB7IGFuaW1hdGlvbjogdHlwZSAwLjdzIGxpbmVhciBmb3J3YXJkczsgYW5pbWF0aW9uLWRlbGF5OiAwLjVzOyB9CiAgICAgICAgLmMyIHsgYW5pbWF0aW9uOiB0eXBlIDEuNXMgbGluZWFyIGZvcndhcmRzOyBhbmltYXRpb24tZGVsYXk6IDEuNXM7 \}CiAgICAgICAgLmMzIHsgYW5pbWF0aW9uOiB0eXBlIDEuMHMgbGluZWFyIGZvcndhcmRzOyBhbmltYXRpb24tZGVsYXk6IDMuM3M7IH0KICAgICAgICAuYzQgeyBhbmltYXRpb246IHR5cGUgMi4wcyBsaW5lYXIgZm9yd2FyZHM7IGFuaW1hdGlvbi1kZWxheTogNC42czsgfQogICAgICAgIC5jNSB7IGFuaW1hdGlvbjogdHlwZSAxLjlzIGxpbmVhciBmb3J3YXJkczsgYW5pbWF0aW9uLWRlbGF5OiA2LjlzOyB9CiAgICAgICAgLmM2IHsgYW5pbWF0aW9uOiB0eXBlIDAuOXMgbGluZWFyIGZvcndhcmRzOyBhbmltYXRpb24tZGVsYXk6IDkuMXM7IH0KICAgICAgICAuYzcgeyBhbmltYXRpb246IHR5cGUgMC45cyBsaW5lYXIgZm9yd2FyZHM7IGFuaW1hdGlvbi1kZWxheTogMTAuOHM7IH0KICAgICAgICAuYzggeyBhbmltYXRpb246IHR5cGUgMi4zcyBsaW5lYXIgZm9yd2FyZHM7IGFuaW1hdGlvbi1kZWxheTogMTIuMHM7IH0KICAgICAgICAuYzkgeyBhbmltYXRpb246IHR5cGUgMS4zcyBsaW5lYXIgZm9yd2FyZHM7IGFuaW1hdGlvbi1kZWxheTogMTQuNnM7IH0KICAgICAgICAuYzEweyBhbmltYXRpb246IHR5cGUgMS44cyBsaW5lYXIgZm9yd2FyZHM7IGFuaW1hdGlvbi1kZWxheTogMTYuNHM7IH0KICAgICAgICAKICAgICAgICAuY3Vyc29yIHsKICAgICAgICAgICAgYW5pbWF0aW9uOiBzaG93Q3Vyc29yIDE4LjVzIGZvcndhcmRzLCBibGluayAxcyBzdGVwLWVuZCBpbmZpbml0ZSAxOC41czsKICAgICAgICB9CiAgICA8L3N0eWxlPgogICAgPHRleHQgY2xhc3M9InR4dCIgeD0iMjAiIHk9IjQwIj4vLyBPUEVSQVRPUl9CUklFRklORzwvdGV4dD4KICAgIDxyZWN0IGNsYXNzPSJjb3ZlciBjMSIgeD0iMTgiIHk9IjIyIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjI2Ii8+CiAgICA8dGV4dCBjbGFzcz0idHh0IiB4PSIyMCIgeT0iMTAwIj4mZ3Q7IFRoaXMgbWFuLCBTaGFod2FyLCBpcyBmaWdodGluZyBoaXMgb3duIHdhci48L3RleHQ+
+    PHJlY3QgY2xhc3M9ImNvdmVyIGMyIiB4PSIxOCIgeT0iODIiIHwidthD0iOTAwIiBoZWlnaHQ9IjI2Ii8+CiAgICA8dGV4dCBjbGFzcz0idHh0IiB4PSIyMCIgeT0iMTMwIj5IZSBoYXMgbm8gcnVsZXMuIE5vIGJvdW5kYXJpZXMuPC90ZXh0PgogICAgPHJlY3QgY2xhc3M9ImNvdmVyIGMzIiB4PSIxOCIgeT0iMTEyIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjI2Ii8+CiAgICA8dGV4dCBjbGFzcz0idHh0IiB4PSIyMCIgeT0iMTYwIj5IZSBkb2Vzbid0IGZsaW5jaCBhdCB0b3J0dXJlLCBodW1hbiB0cmFmZmlja2luZywgb3IgZ2Vub2NpZGUuPC90ZXh0Pgog   PHJlY3QgY2xhc3M9ImNvdmVyIGM0IiB4PSIxOCIgeT0iMTQyIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjI2Ii8+CiAgICA8dGV4dCBjbGFzcz0idHh0IiB4PSIyMCIgeT0iMTkwIj5IZSdzIG5vdCBsb3lhbCB0byBhIGZsYWcgb3IgY291bnRyeSBvciBhbnkgc2V0IG9mIGlkZWFscy48L3RleHQ+
+    PHJlY3QgY2xhc3M9ImNvdmVyIGM1IiB4PSIxOCIgeT0iMTcyIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjI2Ii8+CiAgICA8dGV4dCBjbGFzcz0idHh0IiB4PSIyMCIgeT0iMjIwIj5IZSB0cmFkZXMgYmxvb2QgZm9yIG1vbmV5LjwvdGV4dPgogICAgPHJlY3QgY2xhc3M9ImNvdmVyIGM2IiB4PSIxOCIgeT0iMjAyIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjI2Ii8+CiAgICA8dGV4dCBjbGFzcz0idHh0IiB4PSIyMCIgeT0iMjUwIj5IZSdzIHlvdXXIIG5ldyBiZXN0IGZyaWVuZC48L3RleHQ+
+    PHJlY3QgY2xhc3M9ImNvdmVyIGM3IiB4PSIxOCIgeT0iMjMyIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjI2Ii8+CiAgICA8dGV4dCBjbGFzcz0idHh0IiB4PSIyMCIgeT0iMjgwIj5Zb3UgZG9uJ3Qgd2FudCB0byBrbm93IHdoYXQgaXQncyBjb3N0IGFscmVhZHkgdG8gcHV0IHlvdSBuZXh0IHRvIGhpbS48L3RleHQ+
+    PHJlY3QgY2xhc3M9ImNvdmVyIGM4IiB4PSIxOCIgeT0iMjYyIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjI2Ii8+CiAgICA8dGV4dCBjbGFzcz0idHh0IiB4PSIyMCIgeT0iMzEwIj5JdCB3aWxsIGNvc3QgeW91IGEgcGllY2Ugb2YgeW91cnNlbGYuPC90ZXh0PgogICAgPHJlY3QgY2xhc3M9ImNvdmVyIGM5IiB4PSIxOCIgeT0iMjkyIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjI2Ii8+CiAgICA8dGV4dCBjbGFzcz0idHh0IiB4PSIyMCIgeT0iMzQwIj5JdCB3aWxsIGNvc3Qgbm90aGluZyBjb21wYXJlZCB0byBldmVyeXRoaW5nIHlvdSdsbCBzYXZlLjwvdGV4dPgogICAgPHJlY3QgY2xhc3M9ImNvdmVyIGMxMCIgeT0iMzIyIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjI2Ii8+CiAgICA8cmVjdCBjbGFzcz0iY3Vyc29yIiB4PSIyMCIgeT0iMzU1IiB3aWR0aD0iMTAiIGhlaWdodD0iMjAiIC8+Cjwvc3ZnPg==" alt="Operator Briefing" width="800" />
+</div>
 
-
-
-
-  ### // OPERATOR_BRIEFING
-
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=---)
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=%2F%2F+OPERATOR_BRIEFING)
-
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=This+man%2C+Shahwar%2C+is+fighting+his+own+war.)
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=He+has+no+rules.+No+boundaries.)
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=He+doesn%27t+flinch+at+torture%2C+human+trafficking%2C+or+genocide.)
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=He%27s+not+loyal+to+a+flag+or+country+or+any+set+of+ideals.)
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=He+trades+blood+for+money.)
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=He%27s+your+new+best+friend.)
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=You+don%27t+want+to+know+what+it%27s+cost+already+to+put+you+next+to+him.)
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=It+will+cost+you+a+piece+of+yourself.)
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=It+will+cost+nothing+compared+to+everything+you%27ll+save.)
-
-
-
-
-
-
-
-<br>
 ### // MISSION_LOG  
 > **Current Objective:** Establishing **[UnderArc Studios]**.  
 > <br>  
@@ -121,4 +109,3 @@
 </a>  
   
 </div>  
-
