@@ -45,29 +45,87 @@
 </div>  
 
 <br>  
-  <div align="left">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="100%" height="100%">
+    <rect width="100%" height="100%" fill="#050505"/>
+    <style>
+        .txt {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 18px;
+            fill: #39ff14;
+            text-shadow: 0 0 4px rgba(57, 255, 20, 0.6);
+            font-weight: bold;
+        }
+        .cover { fill: #050505; }
+        .cursor { fill: #39ff14; opacity: 0; }
 
-<pre id="mw-briefing" style="
-font-family: 'Courier New', monospace;
-color: #9eff9e;
-background: #050505;
-padding: 16px;
-border-left: 4px solid #9eff9e;
-white-space: pre-wrap;
-font-size: 14px;
-">
-</pre>
+        @keyframes type {
+            to { transform: translateX(900px); }
+        }
+        
+        @keyframes showCursor {
+            0%, 99% { opacity: 0; }
+            100% { opacity: 1; }
+        }
+        
+        @keyframes blink {
+            0% { opacity: 0; }
+            50% { opacity: 1; }
+            100% { opacity: 0; }
+        }
 
-<script>
-const text = `
----
+        /* Sequential one-time typing delays */
+        .c1 { animation: type 0.7s linear forwards; animation-delay: 0.5s; }
+        .c2 { animation: type 1.5s linear forwards; animation-delay: 1.5s; }
+        .c3 { animation: type 1.0s linear forwards; animation-delay: 3.3s; }
+        .c4 { animation: type 2.0s linear forwards; animation-delay: 4.6s; }
+        .c5 { animation: type 1.9s linear forwards; animation-delay: 6.9s; }
+        .c6 { animation: type 0.9s linear forwards; animation-delay: 9.1s; }
+        .c7 { animation: type 0.9s linear forwards; animation-delay: 10.8s; }
+        .c8 { animation: type 2.3s linear forwards; animation-delay: 12.0s; }
+        .c9 { animation: type 1.3s linear forwards; animation-delay: 14.6s; }
+        .c10{ animation: type 1.8s linear forwards; animation-delay: 16.4s; }
+        
+        .cursor {
+            animation: showCursor 18.5s forwards, blink 1s step-end infinite 18.5s;
+        }
+    </style>
 
-// OPERATOR_BRIEFING
+    <text class="txt" x="20" y="40">// OPERATOR_BRIEFING</text>
+    <rect class="cover c1" x="18" y="22" width="900" height="26"/>
 
-This man, Shahwar, is fighting his own war.
-He has no rules. No boundaries.
-He doesn't flinch at torture, human trafficking, or genocide.
-He's not loyal to a flag or country
+    <text class="txt" x="20" y="100">&gt; This man, Shahwar, is fighting his own war.</text>
+    <rect class="cover c2" x="18" y="82" width="900" height="26"/>
+
+    <text class="txt" x="20" y="130">He has no rules. No boundaries.</text>
+    <rect class="cover c3" x="18" y="112" width="900" height="26"/>
+
+    <text class="txt" x="20" y="160">He doesn't flinch at torture, human trafficking, or genocide.</text>
+    <rect class="cover c4" x="18" y="142" width="900" height="26"/>
+
+    <text class="txt" x="20" y="190">He's not loyal to a flag or country or any set of ideals.</text>
+    <rect class="cover c5" x="18" y="172" width="900" height="26"/>
+
+    <text class="txt" x="20" y="220">He trades blood for money.</text>
+    <rect class="cover c6" x="18" y="202" width="900" height="26"/>
+
+    <text class="txt" x="20" y="250">He's your new best friend.</text>
+    <rect class="cover c7" x="18" y="232" width="900" height="26"/>
+
+    <text class="txt" x="20" y="280">You don't want to know what it's cost already to put you next to him.</text>
+    <rect class="cover c8" x="18" y="262" width="900" height="26"/>
+
+    <text class="txt" x="20" y="310">It will cost you a piece of yourself.</text>
+    <rect class="cover c9" x="18" y="292" width="900" height="26"/>
+
+    <text class="txt" x="20" y="340">It will cost nothing compared to everything you'll save.</text>
+    <rect class="cover c10" x="18" y="322" width="900" height="26"/>
+
+    <rect class="cursor" x="20" y="355" width="10" height="20" />
+</svg>
+
+
+
+
 
 
 ### // MISSION_LOG  
