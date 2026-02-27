@@ -75,10 +75,10 @@
 <br>
 ### // MISSION_LOG  
 > **Current Objective:** Establishing **[UnderArc Studios]**.  
-> <br>  
-> **Task 1:** Developing Indie Game titles (Unreal Engine 5). > <br>  
+ <br>  
+> **Task 1:** Developing Indie Game titles (Unreal Engine 5).  <br>  
 > **Task 2:** Deploying commercial web solutions for small businesses.  
-> <br>  
+ <br>  
 > **Acquiring Intel:** Currently researching `Assembly`, `Flutter`, and `PHP`. <br>  
 ### // WEAPON_LOADOUT (TECH STACK)  
 <div align="center">  
