@@ -45,13 +45,31 @@
 </div>  
 
 <br>  
+
+
+
+
+
+
   ### // OPERATOR_BRIEFING
 
-<div align="left">
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=---)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=%2F%2F+OPERATOR_BRIEFING)
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=2500&pause=999999&color=9EFF9E&multiline=true&width=900&height=260&lines=---;%2F%2F+OPERATOR_BRIEFING;;This+man%2C+Shahwar%2C+is+fighting+his+own+war.;He+has+no+rules.+No+boundaries.;He+doesn%27t+flinch+at+torture%2C+human+trafficking%2C+or+genocide.;He%27s+not+loyal+to+a+flag+or+country+or+any+set+of+ideals.;He+trades+blood+for+money.;He%27s+your+new+best+friend.;You+don%27t+want+to+know+what+it%27s+cost+already+to+put+you+next+to+him.;It+will+cost+you+a+piece+of+yourself.;It+will+cost+nothing+compared+to+everything+you%27ll+save." />
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=This+man%2C+Shahwar%2C+is+fighting+his+own+war.)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=He+has+no+rules.+No+boundaries.)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=He+doesn%27t+flinch+at+torture%2C+human+trafficking%2C+or+genocide.)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=He%27s+not+loyal+to+a+flag+or+country+or+any+set+of+ideals.)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=He+trades+blood+for+money.)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=He%27s+your+new+best+friend.)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=You+don%27t+want+to+know+what+it%27s+cost+already+to+put+you+next+to+him.)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=It+will+cost+you+a+piece+of+yourself.)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&pause=999999&color=9EFF9E&width=900&lines=It+will+cost+nothing+compared+to+everything+you%27ll+save.)
 
-</div>
+
+
+
+
 
 
 <br>
