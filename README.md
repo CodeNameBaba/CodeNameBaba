@@ -11,8 +11,8 @@
             <img src="https://github.com/codenamebaba.png" width="80" style="border-radius:50%; border: 2px solid #13EF93;" alt="Avatar">  
             </td><td align="left">  
 <code><b>OPERATOR_ID:</b> &nbsp;SHAHWAR KHAN</code><br>  
-<code><b>FACTION:</b> &nbsp;&nbsp;&nbsp;&nbsp;UnderArc Studios</code><br>  
-            <code><b>CURRENT_LOC:</b> Hyderabad India [IN]</code><br>  
+<code><b>FACTION:</b> &nbsp;&nbsp;&nbsp;&nbsp; UnderArc Studios</code><br>  
+            <code><b>CURRENT_LOC:</b>  Hyderabad India [IN]</code><br>  
             <code><b>CLASS:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indie Dev / Web Arch</code>  
 </td></tr></table>  
   
