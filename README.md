@@ -45,19 +45,31 @@
 </div>  
 
 <br>  
-  ---
+  <div align="left">
 
-### // OPERATOR_BRIEFING
+<pre id="mw-briefing" style="
+font-family: 'Courier New', monospace;
+color: #9eff9e;
+background: #050505;
+padding: 16px;
+border-left: 4px solid #9eff9e;
+white-space: pre-wrap;
+font-size: 14px;
+">
+</pre>
 
-> **This man, Shahwar, is fighting his own war.**  
-> He has no rules. No boundaries.  
-> He doesn't flinch at torture, human trafficking, or genocide.  
-> He's not loyal to a flag or country or any set of ideals.
-> He trades blood for money.
-> He's your new best friend.
-> You don't want to know what it's cost already to put you next to him.
-> It will cost you a piece of yourself.
-> It will cost nothing compared to everything you'll save.
+<script>
+const text = `
+---
+
+// OPERATOR_BRIEFING
+
+This man, Shahwar, is fighting his own war.
+He has no rules. No boundaries.
+He doesn't flinch at torture, human trafficking, or genocide.
+He's not loyal to a flag or country
+
+
 ### // MISSION_LOG  
 > **Current Objective:** Establishing **[UnderArc Studios]**.  
 > <br>  
