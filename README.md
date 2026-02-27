@@ -54,7 +54,7 @@
 </div>
 
 
-</div>
+<br>
 ### // MISSION_LOG  
 > **Current Objective:** Establishing **[UnderArc Studios]**.  
 > <br>  
