@@ -50,7 +50,7 @@
 ### // OPERATOR_BRIEFING    
     
 
-![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=25&height=30&pause=999999&color=9EFF9E&width=900&lines=This+man%2C+Shahwar%2C+is+fighting+his+own+war.)
+![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=30&height=30&pause=999999&color=9EFF9E&width=900&lines=This+man%2C+Shahwar%2C+is+fighting+his+own+war.)
 ![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=25&height=30&pause=999999&color=9EFF9E&width=900&lines=He+has+no+rules.+No+boundaries.)
 ![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=25&height=30&pause=999999&color=9EFF9E&width=900&lines=He+doesn%27t+flinch+at+torture%2C+human+trafficking%2C+or+genocide.)
 ![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=25&height=30&pause=999999&color=9EFF9E&width=900&lines=He%27s+not+loyal+to+a+flag+or+country+or+any+set+of+ideals.)
