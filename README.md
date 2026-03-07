@@ -27,6 +27,8 @@
 <img  src="https://img.shields.io/badge/INSTAGRAM-ENCRYPTED-0d1117?style=for-the-badge&logo=instagram&logoColor=13EF93&labelColor=0d1117&color=13EF93" alt="Instagram" />      
 </a>      
 <a href="mailto:official.shahwark@gmail.com">      
+
+
 <img src="https://img.shields.io/badge/COMMS_LINK-OPEN_FREQ-0d1117?style=for-the-badge&logo=gmail&logoColor=13EF93&labelColor=0d1117&color=13EF93" alt="Email" />      
 </a>       
       
