@@ -63,7 +63,8 @@
 
 **Current Objective:** Establishing **UnderArc Studios**
 
-**Task 1:** Developing Indie Game titles (Unreal Engine 5)  
+**Task 1:** Developing Indie Game titles (Unreal Engine 5) 
+ 
 **Task 2:** Deploying commercial web solutions for small businesses  
 
 **Acquiring Intel:** Currently researching `Assembly`, `Flutter`, and `PHP`
