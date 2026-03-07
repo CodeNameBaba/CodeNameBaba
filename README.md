@@ -57,7 +57,7 @@
 ![Briefing 8](https://readme-typing-svg.demolab.com?font=Courier+New&size=32&height=45&pause=999999&color=9EFF9E&width=900&lines=It+will+cost+you+a+piece+of+yourself.)
 ![Briefing 9](https://readme-typing-svg.demolab.com?font=Courier+New&size=32&height=45&pause=999999&color=9EFF9E&width=1100&lines=It+will+cost+nothing+compared+to+everything+you%27ll+save.)
 
----
+
 <br>
 ### // MISSION_LOG  
 > **Current Objective:** Establishing **[UnderArc Studios]**.  
