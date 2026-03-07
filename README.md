@@ -58,16 +58,14 @@
 ![Briefing 9](https://readme-typing-svg.demolab.com?font=Courier+New&size=32&height=45&pause=999999&color=9EFF9E&width=1100&lines=It+will+cost+nothing+compared+to+everything+you%27ll+save.)
 
 ---
-
-# // MISSION_LOG
-
-**Current Objective:** Establishing **UnderArc Studios**
-
-**Task 1:** Developing Indie Game titles (Unreal Engine 5) 
- 
-**Task 2:** Deploying commercial web solutions for small businesses  
-
-**Acquiring Intel:** Currently researching `Assembly`, `Flutter`, and `PHP`
+<br>
+### // MISSION_LOG  
+> **Current Objective:** Establishing **[UnderArc Studios]**.  
+ <br>  
+> **Task 1:** Developing Indie Game titles (Unreal Engine 5).  <br>  
+> **Task 2:** Deploying commercial web solutions for small businesses.  
+ <br>  
+> **Acquiring Intel:** Currently researching `Assembly`, `Flutter`, and `PHP`. <br>  
 
 ---
 
