@@ -20,8 +20,6 @@
 
             <code><b>CURRENT_LOC:</b> &nbsp;Hyderabad India [IN]</code><br>      
             <code><b>CLASS:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indie Dev / Web Arch</code>      
-
-
 </td></tr></table>      
       
 <br>      
