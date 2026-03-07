@@ -12,6 +12,7 @@
 <br>       
 <table align="center"><tr><td align="center" width="100">      
             <img src="https://github.com/codenamebaba.png" width="80" style="border-radius:50%; border: 2px solid #13EF93;" alt="Avatar">      
+
             </td><td align="left">      
 <code><b>OPERATOR_ID:</b> &nbsp;SHAHWAR KHAN</code><br>      
 <code><b>FACTION:</b> &nbsp;&nbsp;&nbsp;&nbsp; UnderArc Studios</code><br>      
