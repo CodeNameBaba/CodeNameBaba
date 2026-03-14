@@ -97,8 +97,7 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codenamebaba&layout=compact&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10" height="180"/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codenamebaba&show_icons=true&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10" height="180"/>
-
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codenamebaba&show_icons=true&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10&cache_seconds=1800" height="180"/>
 </div>
 
 ---
