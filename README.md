@@ -93,7 +93,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codenamebaba&theme=dark&hide_border=false&background=0d1117&cache_seconds=1900&stroke=13EF93&ring=13EF93&fire=13EF93&currStreakLabel=13EF93&sideLabels=ffffff&dates=ffffff&border=13EF93" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codenamebaba&theme=dark&hide_border=false&background=0d1117&stroke=13EF93&ring=13EF93&fire=13EF93&currStreakLabel=13EF93&sideLabels=ffffff&dates=ffffff&border=13EF93" height="180"/>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codenamebaba&layout=compact&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10" height="180"/>
 
