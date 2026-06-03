@@ -88,20 +88,16 @@
 ![Header Line](https://capsule-render.vercel.app/api?type=rect&color=13EF93&height=2&section=header&width=100%)      
         
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=1000&color=13EF93&center=true&vCenter=true&width=600&lines=SYSTEM+BOOT...;IDENTITY_CONFIRMED:;CODENAMEBABA;UNDERARC+STUDIOS;PROTOCOL:+ACTIVE" alt="Typing SVG" />      
-
        
-![Header Line](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=5&section=header)      
+![Header Line](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=5&section=header&width=100%)      
 
 <br>
-
 
 <table align="center">
 <tr>
 <td align="center" width="100">
 <img src="https://github.com/codenamebaba.png" width="80" style="border-radius:50%; border:2px solid #13EF93;" alt="Avatar">
 </td>
-
-
 <td align="left">
 
 <code><b>OPERATOR_ID:</b> SHAHWAR KHAN</code><br>
@@ -118,11 +114,9 @@
 <a href="https://instagram.com/md.shahwarkhan">
 <img src="https://img.shields.io/badge/INSTAGRAM-ENCRYPTED-0d1117?style=for-the-badge&logo=instagram&logoColor=13EF93&labelColor=0d1117&color=13EF93" alt="Instagram"/>
 </a>
-
 <a href="mailto:official.shahwark@gmail.com">
 <img src="https://img.shields.io/badge/COMMS_LINK-OPEN_FREQ-0d1117?style=for-the-badge&logo=gmail&logoColor=13EF93&labelColor=0d1117&color=13EF93" alt="Email"/>
 </a>
-
 <a href="https://shahwarkhan.iceiy.com">
 <img src="https://img.shields.io/badge/INTEL-ENCRYPTED_LINK-black?style=for-the-badge&logo=kalilinux&logoColor=13ef93&labelColor=0d1117&color=13ef93" alt="Portfolio"/>
 </a>
@@ -135,15 +129,9 @@
 
 # // OPERATOR_BRIEFING
 
-![Briefing 1](https://readme-typing-svg.demolab.com?font=Courier+New&size=32&height=45&pause=999999&color=9EFF9E&width=900&lines=This+man%2C+Shahwar%2C+is+fighting+his+own+war.)
-![Briefing 2](https://readme-typing-svg.demolab.com?font=Courier+New&size=32&height=45&pause=999999&color=9EFF9E&width=900&lines=He+has+no+rules.+No+boundaries.)
-![Briefing 3](https://readme-typing-svg.demolab.com?font=Courier+New&size=32&height=45&pause=999999&color=9EFF9E&width=1100&lines=He+doesn%27t+flinch+at+torture%2C+human+trafficking%2C+or+genocide.)
-![Briefing 4](https://readme-typing-svg.demolab.com?font=Courier+New&size=32&height=45&pause=999999&color=9EFF9E&width=1100&lines=He%27s+not+loyal+to+a+flag+or+country+or+any+set+of+ideals.)
-![Briefing 5](https://readme-typing-svg.demolab.com?font=Courier+New&size=32&height=45&pause=999999&color=9EFF9E&width=900&lines=He+trades+blood+for+money.)
-![Briefing 6](https://readme-typing-svg.demolab.com?font=Courier+New&size=32&height=45&pause=999999&color=9EFF9E&width=900&lines=He%27s+your+new+best+friend.)
-![Briefing 7](https://readme-typing-svg.demolab.com?font=Courier+New&size=32&height=45&pause=999999&color=9EFF9E&width=1100&lines=You+don%27t+want+to+know+what+it+cost+to+put+you+next+to+him.)
-![Briefing 8](https://readme-typing-svg.demolab.com?font=Courier+New&size=32&height=45&pause=999999&color=9EFF9E&width=900&lines=It+will+cost+you+a+piece+of+yourself.)
-![Briefing 9](https://readme-typing-svg.demolab.com?font=Courier+New&size=32&height=45&pause=999999&color=9EFF9E&width=1100&lines=It+will+cost+nothing+compared+to+everything+you%27ll+save.)
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&height=340&duration=6000&color=9EFF9E&width=900&multiline=true&lines=This+man%2C+Shahwar%2C+is+fighting+his+own+war.;He+has+no+rules.+No+boundaries.;He+doesn%27t+flinch+at+torture%2C+human+trafficking%2C+or+genocide.;He%27s+not+loyal+to+a+flag+or+country+or+any+set+of+ideals.;He+trades+blood+for+money.;He%27s+your+new+best+friend.;You+don%27t+want+to+know+what+it+cost+to+put+you+next+to+him.;It+will+cost+you+a+piece+of+yourself.;It+will+cost+nothing+compared+to+everything+you%27ll+save." alt="Operator Briefing Terminal" />
+</div>
 
 ---
 
@@ -174,15 +162,19 @@
 # // HUD_STATS (PERFORMANCE)
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=codenamebaba&v=3&theme=dark&background=0d1117&stroke=13EF93&ring=13EF93&fire=13EF93&currStreakLabel=13EF93&border=13EF93" height="180"/>
-
-
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codenamebaba&layout=compact&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10&count_private=true&langs_count=9" height="180"/>
-
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codenamebaba&v=4&show_icons=true&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10&cache_seconds=1800" height="180"/>
+<table align="center" border="0">
+<tr>
+<td align="center" valign="top">
+<img src="https://streak-stats.demolab.com/?user=codenamebaba&v=3&theme=dark&background=0d1117&stroke=13EF93&ring=13EF93&fire=13EF93&currStreakLabel=13EF93&border=13EF93&hide_border=true" height="165"/>
+</td>
+<td align="center" valign="top">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codenamebaba&layout=compact&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10&count_private=true&langs_count=9" height="165"/>
+</td>
+<td align="center" valign="top">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codenamebaba&v=4&show_icons=true&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10&cache_seconds=1800" height="165"/>
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -191,7 +183,7 @@
 
 <div align="center">
 
-<img src="https://github.com/codenamebaba/codenamebaba/raw/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/codenamebaba/codenamebaba/raw/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
@@ -208,7 +200,7 @@
 <br><br>
 
 <a href="https://github.com/codenamebaba">
-<img src="https://komarev.com/ghpvc/?username=codenamebaba&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=codenamebaba&color=13EF93&style=flat-square"/>
 </a>
 
 </div>
