@@ -189,8 +189,8 @@
 
 <br><br>
 
-<!-- Active Target 2: Project Edith -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=codenamebaba&repo=Project-Edith&bg_color=0d1117&title_color=13EF93&text_color=ffffff&border_color=13EF93&border_radius=10&icon_color=13EF93" alt="Pinned Project: Edith" />
+<!-- Active Target 2: Project COMMS -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=codenamebaba&repo=Comms&bg_color=0d1117&title_color=13EF93&text_color=ffffff&border_color=13EF93&border_radius=10&icon_color=13EF93" alt="Pinned Project: Comms" />
 
 </div>
 
