@@ -83,7 +83,7 @@
 
 
 
-<div align="center">      
+ <div align="center">      
 
 ![Header Line](https://capsule-render.vercel.app/api?type=rect&color=13EF93&height=2&section=header&width=100%)      
         
@@ -162,19 +162,30 @@
 # // HUD_STATS (PERFORMANCE)
 
 <div align="center">
-<table align="center" border="0">
-<tr>
-<td align="center" valign="top">
-<img src="https://streak-stats.demolab.com/?user=codenamebaba&v=3&theme=dark&background=0d1117&stroke=13EF93&ring=13EF93&fire=13EF93&currStreakLabel=13EF93&border=13EF93&hide_border=true" height="165"/>
-</td>
-<td align="center" valign="top">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codenamebaba&layout=compact&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10&count_private=true&langs_count=9" height="165"/>
-</td>
-<td align="center" valign="top">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codenamebaba&v=4&show_icons=true&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10&cache_seconds=1800" height="165"/>
-</td>
-</tr>
-</table>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=codenamebaba&row=1&column=6&margin-w=15&margin-h=15&bg_color=0d1117&title_color=13EF93&icon_color=13EF93&text_color=ffffff&border_color=13EF93" alt="GitHub Trophies" />
+
+<br><br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codenamebaba&bg_color=0d1117&color=13EF93&line=13EF93&point=ffffff&area=true&hide_border=true&title_color=13EF93" alt="Activity Graph" />
+
+<br><br>
+
+<!-- Overall Stats -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codenamebaba&v=4&show_icons=true&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10&cache_seconds=1800" alt="GitHub Stats" />
+
+<br><br>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=codenamebaba&v=3&theme=dark&background=0d1117&stroke=13EF93&ring=13EF93&fire=13EF93&currStreakLabel=13EF93&border=13EF93" alt="Streak Stats" />
+
+<br><br>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codenamebaba&layout=compact&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10&count_private=true&langs_count=9" alt="Top Languages" />
+
 </div>
 
 ---
@@ -204,3 +215,4 @@
 </a>
 
 </div>
+
