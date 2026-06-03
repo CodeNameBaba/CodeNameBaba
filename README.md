@@ -184,13 +184,18 @@
 
 <br><br>
 
-<!-- Active Target 1: Amorphix -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=codenamebaba&repo=Amorphix&bg_color=0d1117&title_color=13EF93&text_color=ffffff&border_color=13EF93&border_radius=10&icon_color=13EF93" alt="Pinned Project: Amorphix" />
+<!-- Active Target 1: Comms -->
+<a href="https://github.com/codenamebaba/Comms">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=codenamebaba&repo=Comms&bg_color=0d1117&title_color=13EF93&text_color=ffffff&border_color=13EF93&border_radius=10&icon_color=13EF93" alt="Pinned Project: Comms" />
+</a>
 
 <br><br>
 
-<!-- Active Target 2: Project COMMS -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=codenamebaba&repo=Comms&bg_color=0d1117&title_color=13EF93&text_color=ffffff&border_color=13EF93&border_radius=10&icon_color=13EF93" alt="Pinned Project: Comms" />
+<!-- Active Target 2: Calculator -->
+<a href="https://github.com/codenamebaba/Calculator">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=codenamebaba&repo=Calculathor&bg_color=0d1117&title_color=13EF93&text_color=ffffff&border_color=13EF93&border_radius=10&icon_color=13EF93" alt="Pinned Project: Calculator" />
+</a>
+
 
 </div>
 
