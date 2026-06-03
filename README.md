@@ -193,7 +193,7 @@
 
 <!-- Active Target 2: Calculathor -->
 <a href="https://github.com/codenamebaba/Calculathor">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=codenamebaba&repo=Calculathor&bg_color=0d1117&title_color=13EF93&text_color=ffffff&border_color=13EF93&border_radius=10&icon_color=13EF93" alt="Pinned Project: Calculator" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=codenamebaba&repo=Calculathor&bg_color=0d1117&title_color=13EF93&text_color=ffffff&border_color=13EF93&border_radius=10&icon_color=13EF93" alt="Pinned Project: Calculathor" />
 </a>
 
 
