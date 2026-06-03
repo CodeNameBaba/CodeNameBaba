@@ -74,6 +74,7 @@
 
 
 
+
   
 
 
@@ -83,7 +84,7 @@
 
 
 
- <div align="center">      
+<div align="center">      
 
 ![Header Line](https://capsule-render.vercel.app/api?type=rect&color=13EF93&height=2&section=header&width=100%)      
         
@@ -163,18 +164,13 @@
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=codenamebaba&row=1&column=6&margin-w=15&margin-h=15&bg_color=0d1117&title_color=13EF93&icon_color=13EF93&text_color=ffffff&border_color=13EF93" alt="GitHub Trophies" />
-
-<br><br>
-
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codenamebaba&bg_color=0d1117&color=13EF93&line=13EF93&point=ffffff&area=true&hide_border=true&title_color=13EF93" alt="Activity Graph" />
 
 <br><br>
 
-<!-- Overall Stats -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codenamebaba&v=4&show_icons=true&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10&cache_seconds=1800" alt="GitHub Stats" />
+<!-- Expanded Overall Stats Dashboard -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codenamebaba&v=4&show_icons=true&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10&cache_seconds=1800&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Expanded Stats" />
 
 <br><br>
 
@@ -185,6 +181,16 @@
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codenamebaba&layout=compact&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10&count_private=true&langs_count=9" alt="Top Languages" />
+
+<br><br>
+
+<!-- Active Target 1: Amorphix -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=codenamebaba&repo=Amorphix&bg_color=0d1117&title_color=13EF93&text_color=ffffff&border_color=13EF93&border_radius=10&icon_color=13EF93" alt="Pinned Project: Amorphix" />
+
+<br><br>
+
+<!-- Active Target 2: Project Edith -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=codenamebaba&repo=Project-Edith&bg_color=0d1117&title_color=13EF93&text_color=ffffff&border_color=13EF93&border_radius=10&icon_color=13EF93" alt="Pinned Project: Edith" />
 
 </div>
 
@@ -215,4 +221,3 @@
 </a>
 
 </div>
-
