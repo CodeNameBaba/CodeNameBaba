@@ -133,7 +133,7 @@
 # // OPERATOR_BRIEFING
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&height=340&duration=6000&color=9EFF9E&width=900&multiline=true&lines=This+man%2C+Shahwar%2C+is+fighting+his+own+war.;He+has+no+rules.+No+boundaries.;He+doesn%27t+flinch+at+torture%2C+human+trafficking%2C+or+genocide.;He%27s+not+loyal+to+a+flag+or+country+or+any+set+of+ideals.;He+trades+blood+for+money.;He%27s+your+new+best+friend.;You+don%27t+want+to+know+what+it+cost+to+put+you+next+to+him.;It+will+cost+you+a+piece+of+yourself.;It+will+cost+nothing+compared+to+everything+you%27ll+save." alt="Operator Briefing Terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&height=340&duration=3000&color=9EFF9E&width=900&multiline=true&lines=This+man%2C+Shahwar%2C+is+fighting+his+own+war.;He+has+no+rules.+No+boundaries.;He+doesn%27t+flinch+at+torture%2C+human+trafficking%2C+or+genocide.;He%27s+not+loyal+to+a+flag+or+country+or+any+set+of+ideals.;He+trades+blood+for+money.;He%27s+your+new+best+friend.;You+don%27t+want+to+know+what+it+cost+to+put+you+next+to+him.;It+will+cost+you+a+piece+of+yourself.;It+will+cost+nothing+compared+to+everything+you%27ll+save." alt="Operator Briefing Terminal" />
 </div>
 
 ---
