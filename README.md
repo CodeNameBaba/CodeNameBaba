@@ -184,7 +184,7 @@
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codenamebaba&bg_color=0d1117&color=13EF93&line=13EF93&point=ffffff&area=true&hide_border=true&title_color=13EF93" alt="Activity Graph" />
 
-<br><br>
+
 
 <!-- Expanded Overall Stats Dashboard -->
 
@@ -193,16 +193,13 @@
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com/?user=codenamebaba&v=3&theme=dark&background=0d1117&stroke=13EF93&ring=13EF93&fire=13EF93&currStreakLabel=13EF93&border=13EF93" alt="Streak Stats" />
 
-<br>
+
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codenamebaba&v=4&show_icons=true&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10&cache_seconds=1800&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Expanded Stats" />
 
-<br><br>
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codenamebaba&layout=compact&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10&count_private=true&langs_count=9" alt="Top Languages" />
 
-
-<br><br>
 
 <!-- Active Target 2: Calkulathor -->
 <a href="https://github.com/codenamebaba/Calkulathor">
@@ -222,17 +219,13 @@
 
 </div>
 
-<br>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=13EF93&height=2&section=footer&width=100%">
 
-<br>
 
 <code>SYSTEM STATUS: ONLINE // END OF FILE</code>
 
-<br><br>
 
 <a href="https://github.com/codenamebaba">
 <img src="https://komarev.com/ghpvc/?username=codenamebaba&color=13EF93&style=flat-square"/>
