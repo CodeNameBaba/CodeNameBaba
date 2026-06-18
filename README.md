@@ -202,7 +202,7 @@
 <br>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=codenamebaba&v=4&theme=dark&background=0d1117&stroke=13EF93&ring=13EF93&fire=13EF93&currStreakLabel=13EF93&border=13EF93" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=codenamebaba&v=3&theme=dark&background=0d1117&stroke=13EF93&ring=13EF93&fire=13EF93&currStreakLabel=13EF93&border=13EF93" alt="Streak Stats" />
 
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codenamebaba&v=5&show_icons=true&title_color=13EF93&text_color=ffffff&bg_color=0d1117&border_color=13EF93&border_radius=10&cache_seconds=1800&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Expanded Stats" />
