@@ -266,7 +266,7 @@
 
 <div align="center">
 
-<img src="https://github.com/codenamebaba/codenamebaba/raw/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://github.com/codenamebaba/codenamebaba/raw/output/github-contribution-grid-snake.svg" width="100%"&cv=1/>
 
 </div>
 
